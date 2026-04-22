@@ -36,7 +36,7 @@ Build a Machine Learning model(decision tree, random forest, XGBoost ) that pred
 - Provide data‑driven recommendations to help HR improve employee satisfaction and retention.
 - Support strategic decision‑making by showing which workplace conditions matter most for retention
 
-Focus: Data Analytics · Python · Pandas · Machine Learning · Matplotlib · Feature Engineering * Statictics 
+Focus: Data Analytics · Python · Pandas · Machine Learning · Matplotlib · Feature Engineering · Statictics 
 
-🔗[Salifort Motors Project(https://github.com/gmkarthika/Salifort-Motors-Project)
+🔗[Salifort Motors Project](https://github.com/gmkarthika/Salifort-Motors-Project)
 
