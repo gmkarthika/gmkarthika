@@ -24,3 +24,19 @@
 ### **Machine Learning & Statistics**
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
+
+## Featured Projects
+
+### **Salifort-Motors-Project**
+
+Build a Machine Learning model(decision tree, random forest, XGBoost ) that predicts whether or not an employee will leave the company based on the data collected by HR department.
+
+- Identify the factors that influence whether an employee is likely to leave the company.
+- Build a predictive model that can flag employees at risk of leaving.
+- Provide data‑driven recommendations to help HR improve employee satisfaction and retention.
+- Support strategic decision‑making by showing which workplace conditions matter most for retention
+
+Focus: Data Analytics · Python · Pandas · Machine Learning · Matplotlib · Feature Engineering * Statictics 
+
+🔗[Salifort Motors Project(https://github.com/gmkarthika/Salifort-Motors-Project)
+
