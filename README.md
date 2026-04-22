@@ -27,7 +27,7 @@
 
 ## Featured Projects
 
-### **Salifort-Motors-Project**
+### **Salifort Motors Project**
 
 Build a Machine Learning model(decision tree, random forest, XGBoost ) that predicts whether or not an employee will leave the company based on the data collected by HR department.
 
@@ -36,7 +36,41 @@ Build a Machine Learning model(decision tree, random forest, XGBoost ) that pred
 - Provide data‑driven recommendations to help HR improve employee satisfaction and retention.
 - Support strategic decision‑making by showing which workplace conditions matter most for retention
 
-Focus: Data Analytics · Python · Pandas · Machine Learning · Matplotlib · Feature Engineering · Statictics 
+Focus: · Python · Pandas · Machine Learning · Matplotlib · Feature Engineering · Statictics 
 
 🔗[Salifort Motors Project](https://github.com/gmkarthika/Salifort-Motors-Project)
 
+### **Minnesota Traffic Volume** 
+Building a dashboard to help Minnesota Department of Transportation team monitor traffic patterns. Goal is to learn more about:
+
+- Traffic volume throughout the year; ideally organized by year, month, week, day, and hour
+- Traffic volume in different weather conditions
+- Traffic volume on different holidays
+
+Knowing traffic patterns under these conditions will help the team make important infrastructure decisions. These decisions will ensure that any construction in the future won’t cause problems for drivers. 
+
+Focus: · Data Analysis · Tableau · Big Query · Data Transformation
+
+🔗[Minnesota Traffic Volume](https://github.com/gmkarthika/Minnesota-Traffic-Volume)
+
+### **Cyclistic Bike Share** 
+Detailed understanding of the bike trends will help to understand how customers are using their bikes and their demands at different station locations currently and how it can be improved in future. Provide customers with better experience and grow the customer base.
+
+- Project Planning : Prepare the project requirement and Stakeholder requirement Documents
+- Data Preparion :Using ETL pipeline --> extract , transform and load the data. This is done in BiqQuery from Bigquery public datasets
+- Dashboard Design : Design the dashboard in Tableau to analyse the cyclistic data and indetify the trends.
+
+Focus: · Data Analysis · Tableau · Big Query · Data Transformation · ETL Pipeline
+
+🔗[Cyclistic Bike Share](https://github.com/gmkarthika/Cyclistic-Bike-Share)
+
+### **Adventure Works Cycles** 
+Analyze sales, customer, and product data through SQL queries and data visualization for business insights
+
+- Transform raw data into professional-quality reports and dashboards to track KPIs
+- Compare regional performance, analyze product-level trends, and
+- Identify high-value customers
+
+Focus: · Data Analysis · Power BI · SQL · Data Transformation · Data Cleaning · Data Modeling · DAX
+
+🔗[Adventure Works Cycles](https://github.com/gmkarthika/Adventure-WB)
