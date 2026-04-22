@@ -53,6 +53,16 @@ Focus: · Data Analysis · Tableau · Big Query · Data Transformation
 
 🔗[Minnesota Traffic Volume](https://github.com/gmkarthika/Minnesota-Traffic-Volume)
 
+### **Bellabeat Case Study** 
+Bellabeat is a high-tech wellness company that manufactures smart devices designed to help women monitor their health and daily habits. The case study explores Fitbit user data to understand how consumers use devices and translate those insights into actionable recommendations. The goals are to identify
+
+- How do consumers use smart fitness devices in their daily lives? 
+- How can Bellabeat use smart device data to enhance growth and user engagement?
+
+Focus: · Data Analysis · Tableau · Big Query · Data Transformation
+
+🔗[Bellabeat Case Study](https://sites.google.com/view/maheshkarthika/project-page?authuser=0)
+
 ### **Cyclistic Bike Share** 
 Detailed understanding of the bike trends will help to understand how customers are using their bikes and their demands at different station locations currently and how it can be improved in future. Provide customers with better experience and grow the customer base.
 
