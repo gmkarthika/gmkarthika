@@ -1,8 +1,5 @@
 ## Hi, I am Karthika 👋
 
-<!--
-**gmkarthika/gmkarthika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 📊 I’m passionate about working with data to uncover meaningful patterns and insights that support smarter decision‑making  
 - 🔍 I approach problems with a blend of business understanding and analytical thinking, ensuring solutions are both practical and data‑driven  
 - ⚡ I enjoy building end‑to‑end projects focused on data analysis, reporting, and visualization to turn raw information into clear stories  
